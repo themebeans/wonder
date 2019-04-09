@@ -1,0 +1,752 @@
+# Copyright (C) 2019 Wonder
+# This file is distributed under the same license as the Wonder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wonder\n"
+"Report-Msgid-Bugs-To: https://themebeans.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rich Tabor of ThemeBeans\n"
+"Language-Team: ThemeBeans\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:24
+msgid "Go Back"
+msgstr ""
+
+#: 404.php:24
+msgid " or "
+msgstr ""
+
+#: 404.php:24
+msgid "Go Home"
+msgstr ""
+
+#: comments.php:33
+msgid "0 Comments. "
+msgstr ""
+
+#: comments.php:33
+msgid "1 Comment. "
+msgstr ""
+
+#: comments.php:33
+msgid "% Comments. "
+msgstr ""
+
+#: comments.php:79
+msgid "Trackbacks."
+msgstr ""
+
+#: comments.php:105
+msgid "Comments have been disabled."
+msgstr ""
+
+#: content-mobile-menu.php:14
+msgid "Menu"
+msgstr ""
+
+#: content-portfolio-related.php:25
+msgid "No Related Work"
+msgstr ""
+
+#: content-portfolio-related.php:33
+msgid "View some other works"
+msgstr ""
+
+#: content-post-meta.php:3, single-portfolio.php:39
+msgid "Date: "
+msgstr ""
+
+#: content-post-meta.php:4
+msgid "Comments: "
+msgstr ""
+
+#: content-post-meta.php:4
+msgid "0"
+msgstr ""
+
+#: content-post-meta.php:4
+msgid "1"
+msgstr ""
+
+#: content-post-meta.php:4
+msgid "%"
+msgstr ""
+
+#: content-post-meta.php:5
+msgid "Posted in: "
+msgstr ""
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:136
+msgid "Internal Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Widget area for the primary sidebar."
+msgstr ""
+
+#: functions.php:147
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:148
+msgid "Widget area for the contact sidebar."
+msgstr ""
+
+#: functions.php:160
+msgid "Overlay Left"
+msgstr ""
+
+#: functions.php:161, functions.php:185
+msgid "Widget area for the first overlay column."
+msgstr ""
+
+#: functions.php:172
+msgid "Overlay Middle"
+msgstr ""
+
+#: functions.php:173
+msgid "Widget area for the second overlay column."
+msgstr ""
+
+#: functions.php:184
+msgid "Overlay Right"
+msgstr ""
+
+#: functions.php:367
+msgid "Share via:&nbsp;"
+msgstr ""
+
+#: functions.php:373
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:374
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:375
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:376
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:516
+msgid "(Author)"
+msgstr ""
+
+#: functions.php:518
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:530
+msgid "Edit"
+msgstr ""
+
+#: functions.php:533
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:579, template-contact.php:134
+msgid "Name:"
+msgstr ""
+
+#: functions.php:585, template-contact.php:149
+msgid "Email:"
+msgstr ""
+
+#: functions.php:591
+msgid "Website:"
+msgstr ""
+
+#: functions.php:598
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: functions.php:602
+msgid "Comment:"
+msgstr ""
+
+#: functions.php:605
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:606
+msgid "Currently logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Logout</a>."
+msgstr ""
+
+#: functions.php:615
+msgid "Leave a Comment."
+msgstr ""
+
+#: functions.php:616
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:617
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:618
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Twitter Username (eg:ThemeBeans)"
+msgstr ""
+
+#: inc/customizer/customizer.php:76
+msgid "Header Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:89
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:105
+msgid "Body Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Portfolio Overlay"
+msgstr ""
+
+#: inc/customizer/customizer.php:153
+msgid "Portfolio Overlay Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:191, inc/widgets/widget-portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/customizer.php:301
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/customizer.php:352
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:418
+msgid "404 & Coming Soon"
+msgstr ""
+
+#: inc/customizer/customizer.php:423
+msgid "404 Error... Whoops."
+msgstr ""
+
+#: inc/customizer/customizer.php:434
+msgid "Unfortunately, this page can not be found."
+msgstr ""
+
+#: inc/meta/meta-page.php:23
+msgid "Page Meta Settings"
+msgstr ""
+
+#: inc/meta/meta-page.php:29
+msgid "Display Page Title:"
+msgstr ""
+
+#: inc/meta/meta-page.php:30
+msgid "Select to display the page title above the main entry content."
+msgstr ""
+
+#: inc/meta/meta-page.php:36
+msgid "Sidebar Layout:"
+msgstr ""
+
+#: inc/meta/meta-page.php:37
+msgid "Select to display a fullwidth, left or right sidebar layout."
+msgstr ""
+
+#: inc/meta/meta-page.php:42, inc/meta/meta-portfolio.php:124
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/meta/meta-page.php:43
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta/meta-page.php:44
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:23
+msgid "Portfolio Meta Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:24, inc/meta/meta-portfolio.php:88, inc/meta/meta-portfolio.php:114, inc/meta/meta-portfolio.php:224, inc/meta/meta-portfolio.php:254, inc/meta/meta-portfolio.php:261, inc/meta/meta-post.php:145, inc/meta/meta-post.php:152
+msgid ""
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:30
+msgid "Portfolio Type:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:31
+msgid "Select the portfolio type for this post."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:42
+msgid "Portfolio Client:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:43
+msgid "Display the client meta."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:49
+msgid "Portfolio URL:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:50
+msgid "Insert a URL to link your post to. <br/> ex: http://www.themebeans.com"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:56
+msgid "Display Date:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:59
+msgid "Display the date meta."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:63
+msgid "Display Categories:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:66
+msgid "Select to display the portfolio categories."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:70
+msgid "Display Tags:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:73
+msgid "Select to display the portfolio tags."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:87
+msgid "Portfolio Style Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:94
+msgid "Accent Color:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:95
+msgid "Add a accent color to override the default on this post."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:102
+msgid "Background Color:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:103
+msgid "Add a custom background color to media container."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:110
+msgid "Background Image:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:117
+msgid "Background Format:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:118
+msgid "Select the background image format for your page header."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:123
+msgid "Pattern"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:125
+msgid "Backstretch"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:129
+msgid "Background Position:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:130
+msgid "Set a position for your background image, if uploaded."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:141
+msgid "Background Repeat:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:142
+msgid "Set a repeat option for your background image, if uploaded."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:154
+msgid "Background Attachment:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:155
+msgid "Set an attachement option for your background image, if uploaded."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:175, inc/meta/meta-post.php:53
+msgid "Gallery Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:181
+msgid "Gallery Layout:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:182
+msgid "Choose which layout to display for this portfolio post."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:193
+msgid "Gallery Images:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:197, inc/meta/meta-post.php:63
+msgid "Browse & Upload"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:200, inc/meta/meta-post.php:66
+msgid "Randomize Gallery:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:203, inc/meta/meta-post.php:69
+msgid "Randomize the gallery on page load."
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:217, inc/meta/meta-post.php:23
+msgid "Audio Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:223, inc/meta/meta-post.php:29
+msgid "MP3 File URL:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:230, inc/meta/meta-portfolio.php:260, inc/meta/meta-post.php:36, inc/meta/meta-post.php:151
+msgid "Poster Image:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:231
+msgid "The preview image for this audio track"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:247, inc/meta/meta-post.php:138
+msgid "Video Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:253, inc/meta/meta-post.php:144
+msgid "M4V File URL:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:267
+msgid "Embed Code:"
+msgstr ""
+
+#: inc/meta/meta-portfolio.php:268
+msgid "If you are not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: inc/meta/meta-post.php:30
+msgid "Upload or link to an MP3 file."
+msgstr ""
+
+#: inc/meta/meta-post.php:37
+msgid "Upload or link a poster image."
+msgstr ""
+
+#: inc/meta/meta-post.php:83
+msgid "Link Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:89
+msgid "Link URL:"
+msgstr ""
+
+#: inc/meta/meta-post.php:90
+msgid "ex: http://themebeans.com"
+msgstr ""
+
+#: inc/meta/meta-post.php:107
+msgid "Quote Post Format Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:113
+msgid "Quote Text:"
+msgstr ""
+
+#: inc/meta/meta-post.php:114
+msgid "Insert your quote into this textarea."
+msgstr ""
+
+#: inc/meta/meta-post.php:120
+msgid "Quote Source:"
+msgstr ""
+
+#: inc/meta/meta-post.php:121
+msgid "Who said the quote above?"
+msgstr ""
+
+#: inc/meta/meta-post.php:158
+msgid "Embeded Code:"
+msgstr ""
+
+#: inc/meta/meta-post.php:159
+msgid "If you're not using self hosted video then you can include embeded code here."
+msgstr ""
+
+#: inc/post-formats/content-audio.php:37, inc/post-formats/content.php:34, inc/widgets/widget-portfolio-menu.php:77, inc/widgets/widget-portfolio.php:78, loop-portfolio.php:43
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: inc/post-formats/content-audio.php:65, inc/post-formats/content-gallery.php:44, inc/post-formats/content-video.php:50, inc/post-formats/content.php:59
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/template-tags.php:180, inc/template-tags.php:240
+msgid "Play"
+msgstr ""
+
+#: inc/template-tags.php:181, inc/template-tags.php:241
+msgid "Pause"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:19
+msgid "Flickr Photos"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:20
+msgid "Add a Flickr feed widget."
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:103, inc/widgets/widget-newsletter.php:113
+msgid "Title / Intro:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:108
+msgid "Flickr ID:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:113
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:131
+msgid "Display:"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:19
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:20
+msgid "Display a newsletter subscribe field."
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:60
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:124
+msgid "Placeholder Text:"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:130
+msgid "Subscribe Code:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:19
+msgid "Portfolio Menu"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:20
+msgid "A custom loop of portfolio posts."
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:124, inc/widgets/widget-portfolio-taxonomy.php:89, inc/widgets/widget-portfolio.php:123
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:133, inc/widgets/widget-portfolio.php:132
+msgid "Number of Posts: (-1 for Infinite)"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-menu.php:138, inc/widgets/widget-portfolio.php:137
+msgid "Portfolio Loop:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:19
+msgid "Portfolio Taxonomy"
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:20
+msgid "A cloud of portfolio tags or categories."
+msgstr ""
+
+#: inc/widgets/widget-portfolio-taxonomy.php:94
+msgid "Taxonomy:"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:19
+msgid "Standard portfolio post widget."
+msgstr ""
+
+#: index.php:45
+msgid "&#39;s Posts."
+msgstr ""
+
+#: index.php:55
+msgid "This author has not added a biography yet. Meanwhile he/she has contributed "
+msgstr ""
+
+#: index.php:57
+msgid " posts. Check them out below:"
+msgstr ""
+
+#: index.php:62
+msgid "Tagged: %s"
+msgstr ""
+
+#: index.php:64
+msgid "Category:&nbsp;%s"
+msgstr ""
+
+#: index.php:66, index.php:68, index.php:70
+msgid "Archives: %s"
+msgstr ""
+
+#: index.php:68
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: index.php:70
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: index.php:72
+msgid "Archives"
+msgstr ""
+
+#: loop-portfolio.php:37
+msgid "New"
+msgstr ""
+
+#: page.php:39, single.php:33, template-comingsoon.php:47
+msgid "Pages:"
+msgstr ""
+
+#: search.php:30, search.php:30, search.php:30
+msgid "To search again, click here, type & hit enter... "
+msgstr ""
+
+#: search.php:66
+msgid "Nothing Found."
+msgstr ""
+
+#: search.php:67
+msgid "Sorry, we couldn&#39;t find anything for \"%s\"."
+msgstr ""
+
+#: searchform.php:10, searchform.php:10, searchform.php:10
+msgid "Search here..."
+msgstr ""
+
+#: single-portfolio.php:46
+msgid "Client:"
+msgstr ""
+
+#: single-portfolio.php:59
+msgid "Skills:&nbsp;"
+msgstr ""
+
+#: single-portfolio.php:65
+msgid "Tags:&nbsp;"
+msgstr ""
+
+#: single.php:47
+msgid "<span>Tagged: </span>"
+msgstr ""
+
+#: template-archives.php:30
+msgid "Last 30 Posts."
+msgstr ""
+
+#: template-archives.php:41
+msgid "Archives by Month."
+msgstr ""
+
+#: template-archives.php:45
+msgid "Archives by Category."
+msgstr ""
+
+#: template-archives.php:49
+msgid "Site Map."
+msgstr ""
+
+#: template-comingsoon.php:63
+msgid "Days"
+msgstr ""
+
+#: template-comingsoon.php:72
+msgid "Hours"
+msgstr ""
+
+#: template-comingsoon.php:81
+msgid "Minutes"
+msgstr ""
+
+#: template-comingsoon.php:90
+msgid "Seconds"
+msgstr ""
+
+#: template-contact.php:104
+msgid "Awesome! Your message has been sent!"
+msgstr ""
+
+#: template-contact.php:114
+msgid "Well now... an error occured. Please try again."
+msgstr ""
+
+#: template-contact.php:164
+msgid "Subject:"
+msgstr ""
+
+#: template-contact.php:178
+msgid "Message:"
+msgstr ""
+
+#: template-portfolio-filter.php:28, template-portfolio-filter.php:75
+msgid "All"
+msgstr ""
+
+#: template-site-map.php:32
+msgid "Pages"
+msgstr ""

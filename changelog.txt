@@ -1,0 +1,241 @@
+** Wonder Changelog **
+
+05 April 2019, Version 3.0.0
+	* New: Add the latest ThemeBeans framework upgrade with modern coding standards and build scripts in place
+	* New: Add TGM Plugin Activation support with recommended plugins
+	* New: Add SCSS support with auto browser auto-prefixing
+	* New: Add support for core custom logo functionality and auto-migration
+	* New: Add a new license Customizer control for managing your theme license
+	* New: Add concated styles and scripts for faster performance
+	* New: Add minified Customizer JS and editor stylesheet assets with auto-prefixing
+	* New: Add new custom logo width options for desktop and mobile viewports
+	* New: Add support for the new `wp_body_open` hook in WordPress 5.2+
+	* Tweak: function names with proper "wonder_" prefixes, instead of "bean_"
+	* Tweak: Improve Customizer settings with proper organization
+	* Tweak: Improve Customizer UI
+	* Tweak: Improve debug mode that works with minified asset delivery throughout the entire theme
+	* Tweak: Improved Customizer sanitization functions
+	* Tweak: Improved PHPCS code readability
+	* Tweak: Improved theme styles to make them more modern
+	* Tweak: Improved theme updater class
+	* Tweak: Move /js/ to /assets/js/{source}
+	* Tweak: Prepare for Gutenberg compatibility
+	* Tweak: Updated child theme
+	* Tweak: Updated comments
+	* Tweak: Updated languages
+
+10 November 2017 - Version 2.8.5
+	Fixes & Updates
+		* Mobile menu translate fix on certain browsers
+
+
+30 October 2017 - Version 2.8.4
+	Fixes & Updates
+		* Updated Isotope to version 3.0.4
+		* Resolved a mobile filtering issue
+		* Improved responsive nature of the portfolio grid
+		* Improved portfolio widget styling
+
+
+12 October 2017 - Version 2.8.3
+	New
+		* Added support for adding content to the home page, above the portfolio
+
+	Fixes & Updates
+		* Fixed video portfolio post WP_DEBUG notice
+
+
+24 August 2017 - Version 2.8.2
+	Fixes & Updates
+		* Added conditional checks for Envato Hosted accounts
+
+
+11 April 2016 - Version 2.8.1
+	New
+		* Added full PHP 7 Compatibility 🚀
+
+
+23 December 2016 - Version 2.8.0
+	Fixes & Updates
+		* WordPress 4.7 touchups
+		* Updated pingback header
+		* Custom CSS -> WP Core CSS migration
+		* Updated languages
+
+
+01 November 2016 - Version 2.7.3
+	New
+		* Added Customizer selective refresh
+		* Removed the Customizer custom CSS module, in lieu of Simple Custom CSS [https://wordpress.org/plugins/simple-custom-css]
+		* Removed SEO settings, in lieu of Yoast SEO [https://wordpress.org/plugins/wordpress-seo]
+
+	Fixes & Updates
+		* Fixed favicon display issue in WP 4.6+
+		* Updated email sanitization callbacks
+		* Updater class now requires admin permissions
+		* Updated pingback header
+		* Updated languages
+
+
+22 January 2016 - Version 2.7.2
+	Fixes & Updates
+		 * EDD_Theme_Updater Update
+		 * Dynamic Sidebar WP 4.4 fixes
+		 * Updated minified stylesheet
+		 * Updated languages
+
+
+31 August 2015 - Version 2.7.1
+	New
+		* 100% GPL license
+
+
+26 August 2015 - Version 2.7.0
+	Fixes & Updates
+		* Improved optimization of image assets
+		* Added minified css/js files
+		* Theme Customizer update
+		* 4.3 widget __construct update
+		* Framework updated to v2.6.2.2
+		* Updated languages
+
+
+30 April 2015 - Version 2.6.0
+	Fixes & Updates
+		* XSS fix
+		* Theme Customizer UI improvements
+		* wonder_custom_form_filters comments 4.2+ fix
+		* Framework updated to v2.2.5
+		* Updated languages
+
+
+14 January 2015 - Version 2.5.1
+	* Contact form updated
+		- Anti-spam $headers fix
+	* Framework updated to v2.2.3.1
+		- Customizer image upload update
+	* Updated languages
+
+
+22 December 2014 - Version 2.5.0
+	* Framework updated to v2.2.2
+		- Updated Custom CSS Editor
+		- Added HD Retina assets
+		- Updated apple-touch-icon
+		- Notifications for theme updates
+		- Dashboard updating enabled
+		- Theme license admin page (NEW)
+		- Moved customizer functions to /framework
+	* Updated child theme
+	* Updated languages
+
+
+11 November 2014 - Version 2.4.0
+	* Added mobile portfolio filter (NEW)
+	* Animation engine update
+	* Added sharper @3x images for HD Retina devices (NEW)
+	* Removed Dribbble widget, replaced by the Bean Dribbble plugin
+		- widget-dribbble.php (REMOVED)
+		- inc/functions/init.php
+	* Framework updated to v2.1.2
+		- Customizer major update
+		- Added HD Retina assets
+		- Updated apple-touch-icon
+	* Updated child theme
+	* Updated languages
+
+
+16 September 2014 - Version 2.3.1
+	* Portfolio li style fix
+	* Portfolio stacked img captions updated
+	* Framework updated to v2.0.9.2
+	* Updated languages
+
+
+5 September 2014 - Version 2.3.0
+	* WP 4.0 compatibility update
+	* Added Site Map template (NEW)
+	* Modded 'page' filenames to 'template'
+	* Updated styles for templates' mod
+	* Moved framework.css into style.css - performance improvement
+	* Removed framework.css
+	* Updated languages
+
+
+19 Aug 2014 - Version 2.2.3
+	* Social sharing update
+	* Pinterest feat image pull fix
+	* Twitter username customizer option
+	* Support for Bean 500px plugin
+	* Framework updated to v2.0.9.1
+	* Updated languages
+
+
+22 Apr 2014 - Version 2.2.2
+	* WP 3.9 UI touch ups
+	* Sidebar template widget fix
+	* Updated languages
+
+
+8 Apr 2014 - Version 2.2.1
+	* Updated portfolio widgets
+	* Moved widget.init to functions.php
+	* Updated languages
+	* Updated child theme
+	* Framework updated to v2.0.7
+
+
+1 Apr 2014 - Version 2.2.0
+	* Added video widget (NEW)
+	* Added portfolio widget (NEW)
+	* Added portfolio menu widget (NEW)
+	* Added portfolio taxonomy widget (NEW)
+	* Added portfolio tags meta option (NEW)
+	* Customizer UI update
+	* Updated child theme
+
+
+12 Mar 2014 - Version 2.1.2
+	* Updated theme update system
+	* Framework updated to v2.0.5
+
+
+27 Feb 2014 - Version 2.1.1
+	* Customizer live JS fix
+
+
+26 Feb 2014 - Version 2.1.0
+	* New theme version notifications/update system
+	* New Custom CSS Editor
+	* Theme customizer UI update
+	* Framework updated to v2.0.4
+	* Language .po/.mo files updated
+
+
+12 Feb 2014 - Version 2.0.1
+	* Support for Bean Shortcodes 2.0+
+	* Portfolio meta cleanup
+
+
+28 Jan 2014 - Version 2.0.0
+	* Major theme/framework release - backup & update with caution.
+	* Updated documentation
+
+
+13 Dec 2013 - Version 1.2.0
+	* WP 3.8 Patches
+	* Support for Bean Tweets Plugin v2.0
+
+
+14 Nov 2013 - Version 1.1.0
+	* New filtered portfolio template
+	* Support for Bean Pricing Tables Plugin
+	* Added Theme Mockup PSDs
+
+
+4 Oct 2013 - Version 1.0.1
+	* Support for Bean Social Plugin
+
+
+1 Oct 2013 - Version 1.0.0
+	* Initial release
